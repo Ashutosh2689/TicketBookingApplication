@@ -1,1 +1,3 @@
-git remote add origin git@github.com:Ashutosh2689/TicketBookingApplication.git && git branch -M main && git push -u origin main
+git remote add origin git@github.com:Ashutosh2689/TicketBookingApplication.git
+git branch -M main
+git push -u origin main
