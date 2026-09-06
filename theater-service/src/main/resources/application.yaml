@@ -1,12 +1,12 @@
 server:
-  port: 8081
+  port: 8083
 
 spring:
   application:
-    name: user-service
+    name: theater-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/userdb
+    url: jdbc:postgresql://localhost:5432/theaterdb
     username: postgres
     password: 7860
 
